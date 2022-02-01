@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "name": "Apple",
+      "brand": "Iphone 13 Pro Max",
+      "price": 950000,
+      "size": "512",
+      "color": "Space grey",
+      "image": "https://avatars.mds.yandex.net/i?id=2a0000017ea1efc79f9e2208a7feea19a39c-1437362-fast-images&n=13",
+      "id": 1
+    },
+    {
+      "name": "Apple",
+      "brand": "Iphone 12 mini",
+      "price": 150000,
+      "size": "128",
+      "color": "Green",
+      "image": "https://www.yablochko.ru/upload/resize_cache/iblock/19f/600_0_140cd750bba9870f18aada2478b24840a/RURU_iPhone12mini_Q121_Green_PDP-Image-1B.jpg",
+      "id": 3
+    },
+    {
+      "name": "Apple",
+      "brand": "Iphone 13",
+      "price": 125000,
+      "size": "512",
+      "color": "Gold",
+      "image": "https://assets.swappie.com/iPhone-11-Pro-Max-gold-back.png",
+      "id": 4
+    },
+    {
+      "name": "Apple",
+      "brand": "Iphone 11",
+      "price": 145000,
+      "size": "256",
+      "color": "Dark Green",
+      "image": "https://aleksin.mnogotelefonov.ru/f/product/15600597631006_792_194_241.jpg",
+      "id": 5
+    },
+    {
+      "name": "Apple",
+      "brand": "Iphone 13 Pro Max",
+      "price": 175000,
+      "size": "512",
+      "color": "Blue",
+      "image": "https://media.graphcms.com/resize=fit:clip,height:940,width:940/HTd1MSxQ7GuG1IQtnHYq",
+      "id": 6
+    },
+    {
+      "name": "Apple",
+      "brand": "MacBook",
+      "price": 245000,
+      "size": "128",
+      "color": "Silver",
+      "image": "https://viprekvizit.ru/wp-content/uploads/f955cdb1-1d92-4697-83ff-de7d9766f949.jpg",
+      "id": 7
+    },
+    {
+      "name": "Apple",
+      "brand": "MacBook",
+      "price": 270000,
+      "size": "64",
+      "color": "Gold",
+      "image": "http://g03.a.alicdn.com/kf/HTB1guEgJpXXXXanaXXXq6xXFXXXY/206306965/HTB1guEgJpXXXXanaXXXq6xXFXXXY.jpg",
+      "id": 8
+    },
+    {
+      "name": "Apple",
+      "brand": "iPad Air",
+      "price": 100000,
+      "size": "256",
+      "color": "Space grey",
+      "image": "https://d28i4xct2kl5lp.cloudfront.net/product_images/117293_a547c126-0aab-423b-8262-86bedb5c6099.jpg",
+      "id": 9
+    },
+    {
+      "name": "Apple",
+      "brand": "iwatch 3",
+      "price": 35000,
+      "size": "64",
+      "color": "black",
+      "image": "https://shoc.by/thumbs/5a/5a2d75c97351e846862ea5f4bf878f27.jpg",
+      "id": 10
+    },
+    {
+      "name": "Apple",
+      "brand": "Iphone 3",
+      "price": 50000,
+      "size": "64",
+      "color": "Black Edition",
+      "image": "https://i.pinimg.com/originals/c0/c2/cb/c0c2cbc07bf591f9a2def24bdb97dd72.jpg",
+      "id": 11
+    },
+    {
+      "name": "Apple",
+      "brand": "Iphone 4",
+      "price": 45000,
+      "size": "128",
+      "color": "Black",
+      "image": "https://images.ru.prom.st/827238710_w640_h640_smartfon-apple-iphone.jpg",
+      "id": 12
+    },
+    {
+      "name": "Apple",
+      "brand": "Iphone 7",
+      "price": 56000,
+      "size": "128",
+      "color": "Space grey",
+      "image": "https://specifications-pro.com/wp-content/uploads/2020/07/iPhone-7-Plus-600x600.jpg",
+      "id": 13
+    }
+  ]
+}
