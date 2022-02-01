@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app";
 import {getAuth} from "firebase/auth"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAfcYaJT2yCcEY9xjhf2MA_ylwvArSuDSU",
-  authDomain: "market-place-5767c.firebaseapp.com",
-  projectId: "market-place-5767c",
-  storageBucket: "market-place-5767c.appspot.com",
-  messagingSenderId: "51019764006",
-  appId: "1:51019764006:web:4eae561f926a6d682231e7"
+  apiKey: "AIzaSyBJ7yx6L0PwZmS-sJEQYzuLoziAYuGSYPA",
+  authDomain: "applestore-bb8db.firebaseapp.com",
+  projectId: "applestore-bb8db",
+  storageBucket: "applestore-bb8db.appspot.com",
+  messagingSenderId: "1005127877690",
+  appId: "1:1005127877690:web:0ff286302ed7b9a6d26103"
 };
 
 const app = initializeApp(firebaseConfig);
